@@ -1,0 +1,12 @@
+.carousel-item >img{
+    height: 100vh;
+}
+img{
+    width: 100%;
+}
+.container-cards{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 20px 0 0 0;
+}
